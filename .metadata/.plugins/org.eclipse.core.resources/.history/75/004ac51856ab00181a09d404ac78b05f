@@ -1,0 +1,3 @@
+limits-service.min=8
+limits-service.max=888
+management.endpoints.web.exposure.include=*

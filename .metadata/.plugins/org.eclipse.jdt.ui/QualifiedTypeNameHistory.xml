@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="com.microservice.LimitBean"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="org.springframework.boot.context.properties.ConfigurationProperties"/>
+<fullyQualifiedTypeName name="com.microservice.service.LimitService"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.config.server.EnableConfigServer"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
+<fullyQualifiedTypeName name="com.model.Calculator"/>
+<fullyQualifiedTypeName name="org.junit.Ignore"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.AMQP.Channel"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.AMQP.Connection"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.ConnectionFactory"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.Connection"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.Channel"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.DefaultConsumer"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.Consumer"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.Envelope"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.AMQP"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.client.discovery.EnableDiscoveryClient"/>
+<fullyQualifiedTypeName name="com.netflix.zuul.ZuulFilter"/>
+<fullyQualifiedTypeName name="org.springframework.http.HttpRequest"/>
+<fullyQualifiedTypeName name="com.netflix.zuul.context.RequestContext"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.zuul.EnableZuulProxy"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="brave.sampler.Sampler"/>
+<fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+<fullyQualifiedTypeName name="org.slf4j.Logger"/>
+<fullyQualifiedTypeName name="zipkin2.server.internal.EnableZipkinServer"/>
+<fullyQualifiedTypeName name="zipkin.server.EnableZipkinServer"/>
+</qualifiedTypeNameHistroy>

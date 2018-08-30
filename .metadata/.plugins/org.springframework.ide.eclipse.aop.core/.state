@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Eureka-NamingServer"/>
+<aop-project name="LimitConfiguration"/>
+<aop-project name="zipkin-distributed-tracing-server"/>
+<aop-project name="currency-exchange-service"/>
+<aop-project name="LimitService"/>
+<aop-project name="currency-conversion-service"/>
+<aop-project name="Netfilx-ZuulAPI-Gateway"/>
+</aop-reference-model>
